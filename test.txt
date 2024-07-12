@@ -1,6 +1,10 @@
 I’ve heard a lot about you. It’s a pleasure to meet you,
 That’s alright. Shall we meet another day?
+<<<<<<< HEAD
 Patrick, this is Long, my best friend.
+=======
+Where are you from? When did you move here?
+>>>>>>> 4
 You and Tam are at the same age, right?
 Actually, I’m two years older. We joined the same book club.
 Nice! We should go cycling together someday.
