@@ -1,9 +1,13 @@
 I’ve heard a lot about you. It’s a pleasure to meet you,
 Patrick, this is Long, my best friend.
 That’s alright. Shall we meet another day?
+<<<<<<< HEAD
 I ADD THIS LINE 1
 I ADD THIS LINE 2
 I ADD THIS LINE 3
 Where are you from? When did you move here?
+=======
+Where are you from? EDIT When did you move here?
+>>>>>>> 24
 Oh, Jackson, I don’t know what to say. Listen
 Hello, everyone! I’m Daniel Steward. From now
